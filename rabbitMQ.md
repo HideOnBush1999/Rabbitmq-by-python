@@ -1,3 +1,7 @@
+### 0. 说明
+
+来源： [RabbitMQ - YouTube](https://www.youtube.com/watch?v=iQ4kENLfaNI&list=PLqQobDgJHSdPV-E15ocgpOLGreYgwcZUj&index=3&t=50s)
+
 ### 1. 配置环境
 
 在 windows 系统和 linux 系统中使用 docker 来配置环境比较方便。
